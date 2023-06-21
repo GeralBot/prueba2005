@@ -1,6 +1,6 @@
 
-### `—◉ 👑 ¡Hola! Aleizn-MD?, CONTACTAME 👑`
-<a href="http://wa.me/+5493878224071" target="blank"><img src="https://img.shields.io/badge/Ale-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+### `—◉ 👑 ¡Hola! Geral Bot?, CONTACTAME 👑`
+<a href="http://wa.me/+51935763050" target="blank"><img src="https://img.shields.io/badge/GeralBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
@@ -9,66 +9,66 @@
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-```bash
+bash
 cd && termux-setup-storage
-```
 
-```bash
+
+bash
 apt-get update -y && apt-get upgrade -y
-```
 
-```bash
+
+bash
 pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
-```
 
-```bash
-git clone https://github.com/aleizn/Propio
-```
 
-```bash
+bash
+git clone https://github.com/GeralBot/Propio
+
+
+bash
 cd Propio
-```
 
-```bash
+
+bash
 yarn install
-```
 
-```bash
+
+bash
 npm install
-```
 
-```bash
+
+bash
 npm update
-```
 
-```bash
+
+bash
 npm install
-```
 
-```bash
+
+bash
 npm start
-```
+
 
 ### 
 
 ### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE ✔️`
-```bash
+bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd Permanente
 > npm start
-```
+
 
 ### `—◉ 👽 OBTENER OTRO CODIGO QR 👽`
-```bash
+bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd Permanente
 > rm -rf session.data.json
 > npm start
-```
+
 
 
 ### `—◉ 📝 NOTAS 📝`
-```bash
+bash
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
 - ES RECOMENDABLE LEER TODO EL MENU Y VER EL FUNCIONAMIENTO DE CADA UNO DE LOS COMANDOS
 - REPORTA CUALQUIER FALLO CON EL COMANDO DE REPORTE 
@@ -80,10 +80,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE 
 - EL BOT FUNCIONA AUNQUE EL WHATSAPP NO TENGA CONEXION 
 - SE RECOMIENDA REESCANEAR EL CODIGO QR CADA 2 DIAS, PARA EVITAR PROBLEMAS O ERRORES
-```
+
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
-`Ale __________ Ale?`
+`Geral ____ Geral?`
 
 ![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
 </div>
