@@ -36,7 +36,7 @@ let buttonMessage= {
 'caption': texto1,
 'footer': wm,
 'buttons':[
-{buttonId: `${usedPrefix}menu`, buttonText: {displayText: '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'}, type: 1}],
+{buttonId: `${usedPrefix}menu`, buttonText: {displayText: '𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭'}, type: 1}],
 'headerType': 6 }
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })}
 handler.command = /^(numerovictual|como crea un numero victual)$/i
