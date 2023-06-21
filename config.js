@@ -12,32 +12,32 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰  
 
 global.owner = [ 
-  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601'],
-  ['51992621601'], 
-  ['51992621601'], 
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601']
+  ['51935763050', '𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭', true],
+  ['51935763050', '𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭', true],
+  ['51935763050'],
+  ['51935763050'], 
+  ['51935763050'], 
+  ['51935763050'],
+  ['51935763050'],
+  ['51935763050'],
+  ['51935763050'],
+  ['51935763050'],
+  ['51935763050'],
+  ['51935763050'],
+  ['51935763050']
 ]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['551992621601']
+global.mods = ['51935763050']
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga Aleizn-MD
+//Agrega el Idioma que quieres que tenga Geral-Bot
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de Aleizn-MD Ejemplo: es | en | pt...
+global.lenguajeGB = es  //Idioma de Geral-Bot Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -93,7 +93,7 @@ global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
 global.mods = [] 
 
 
-/*************************/
+/*********/
 global.cheerio = cheerio
 global.fs = fs
 global.fetch = fetch
@@ -103,44 +103,43 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
+global.author = '𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.9'
-global.lb = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
+global.lb = '𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭'
 global.yt = 'https://www.youtube.com/Alsf'
-global.ig = 'https://www.instagram.com/ale.izn_20/'
+global.ig = 'https://www.instagram.com/geral_ventas_18/'
 global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
 global.fb = 'https://www.facebook.com/groups/872989/'
-
-global.nna = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Actualización, información sobre el bot
-global.nn = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Grupo del Colaboracion
-global.nnntt = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Grupo COL 2 
-global.nnnttt = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //enlace lolibot
-global.nnntttt = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Grupo ayuda sobre el bot
-global.asistencia = 'Wa.me/51992621601' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon' //Actualización, información sobre el bot
+global.nn = 'https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon' //Grupo del Colaboracion
+global.nnntt = 'https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon' //Grupo COL 2 
+global.nnnttt = 'https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon' //enlace lolibot
+global.nnntttt = 'https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon' //Grupo ayuda sobre el bot
+global.asistencia = 'Wa.me/51935763050' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
-global.rg = '╰⊱✅⊱ *𝙍𝙚𝙨𝙪𝙡𝙩𝙖𝙙𝙤𝙨* ⊱✅⊱╮\n\n'
+global.rg = '╰⊱✅⊱ 𝙍𝙚𝙨𝙪𝙡𝙩𝙖𝙙𝙤𝙨 ⊱✅⊱╮\n\n'
 global.resultado = rg
-global.ag = '╰⊱⚠️⊱ *𝘼𝙙𝙫𝙚𝙧𝙩𝙚𝙣𝙘𝙞𝙖* ⊱⚠️⊱╮\n\n'
+global.ag = '╰⊱⚠️⊱ 𝘼𝙙𝙫𝙚𝙧𝙩𝙚𝙣𝙘𝙞𝙖 ⊱⚠️⊱╮\n\n'
 global.advertencia = ag
-global.iig = '╰⊱❕⊱ *𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙘𝙞𝙤𝙣* ⊱⊱╮\n\n'
+global.iig = '╰⊱❕⊱ 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙘𝙞𝙤𝙣 ⊱⊱╮\n\n'
 global.informacion = iig
-global.fg = '╰⊱❌⊱ *𝙀𝙧𝙧𝙤𝙧* ⊱❌⊱╮\n\n'
+global.fg = '╰⊱❌⊱ 𝙀𝙧𝙧𝙤𝙧 ⊱❌⊱╮\n\n'
 global.fallo = fg
-global.mg = '╰⊱❗️⊱ *𝙇𝙤 𝙪𝙨𝙤 𝙢𝙖𝙡* ⊱❗️⊱╮\n\n'
+global.mg = '╰⊱❗️⊱ 𝙇𝙤 𝙪𝙨𝙤 𝙢𝙖𝙡 ⊱❗️⊱╮\n\n'
 global.mal = mg
-global.eeg = '╰⊱📩⊱ *𝙍𝙚𝙥𝙤𝙧𝙩𝙚* ⊱📩⊱╮\n\n'
+global.eeg = '╰⊱📩⊱ 𝙍𝙚𝙥𝙤𝙧𝙩𝙚 ⊱📩⊱╮\n\n'
 global.envio = eeg
-global.eg = '╰⊱💚⊱ *𝙀𝙭𝙞𝙩𝙤* ⊱💚⊱╮\n\n'
+global.eg = '╰⊱💚⊱ 𝙀𝙭𝙞𝙩𝙤 ⊱💚⊱╮\n\n'
 global.exito = eg
 
 //𝙀𝙅𝙀𝙈𝙋𝙇𝙊
@@ -149,12 +148,12 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
-global.igfg = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
-global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
-global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
-global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
-global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
+global.wm = '𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭'
+global.igfg = '𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭'
+global.wait = '⌛ Cargando... ▬▭▭▭▭▭▭'
+global.waitt = '⌛ Cargando... ▬▬▭▭▭'
+global.waittt = '⌛ Cargando... ▬▬▬▬▭▭'
+global.waitttt = '⌛ Cargando... ▬▬▬▬▬▬▭'
 global.nomorown = '5492266466080'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
@@ -215,14 +214,14 @@ global.cmenub = '┊✦ '
 global.cmenuf = '╰━═┅═━––––––๑\n'
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     '
  
-global.dmenut = '*❖─┅──┅〈*'
-global.dmenub = '*┊»*'
-global.dmenub2 = '*┊*'
-global.dmenuf = '*╰┅────────┅✦*'
+global.dmenut = '❖─┅──┅〈'
+global.dmenub = '┊»'
+global.dmenub2 = '┊'
+global.dmenuf = '╰┅────────┅✦'
 global.htjava = '⫹⫺'
 
-global.htki = '*⭑•̩̩͙⊱•••• ☪*'
-global.htka = '*☪ ••••̩̩͙⊰•⭑*'
+global.htki = '⭑•̩̩͙⊱•••• ☪'
+global.htka = '☪ ••••̩̩͙⊰•⭑'
 
 global.comienzo = '• • ◕◕════'
 global.fin = '════◕◕ • •'
